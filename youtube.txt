@@ -1,3 +1,4 @@
+!Blocks YouTube on both browsers and YouTube apps
 ||youtube.com^
 ||ytimg.com
 ||ytimg.l.google.com
