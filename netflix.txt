@@ -4,3 +4,4 @@
 ||nflxvideo.net
 ||netflix.com^
 ||nflxvideo.com
+||nflxso.net
