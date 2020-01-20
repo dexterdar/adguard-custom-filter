@@ -3,5 +3,5 @@
 ||nflximg.net	
 ||nflxvideo.net
 ||netflix.com^
-||nflxvideo.com
-||nflxso.net
+||nflxvideo.com^
+||nflxso.net^
