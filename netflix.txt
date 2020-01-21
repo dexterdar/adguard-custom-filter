@@ -1,8 +1,7 @@
-||nflxext.com	
-||nflximg.com
-||nflximg.net	
-||nflxvideo.net
+||nflxext.com^
+||nflximg.com^
+||nflximg.net^
+||nflxvideo.net^
 ||netflix.com^
 ||nflxvideo.com^
 ||nflxso.net^
-/nflx/
