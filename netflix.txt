@@ -5,3 +5,4 @@
 ||netflix.com^
 ||nflxvideo.com^
 ||nflxso.net^
+/nflx/
